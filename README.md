@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-ndiritu&label=Profile%20views&color=0e75b6&style=flat" alt="peter-ndiritu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter-ndiritu" alt="peter-ndiritu" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://peter-ndiritu.github.io/Peter_Thuku_2024_v1/](https://peter-ndiritu.github.io/Peter_Thuku_2024_v1/)
 
