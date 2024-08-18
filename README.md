@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Ndiritu Thuku</h1>
-<h3 align="center">A Geospatial - Intelligence (Geo-INT) Specialist</h3>
+<h3 align="center">GIS & EO Consultant | Space Enthusiast | Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-ndiritu&label=Profile%20views&color=0e75b6&style=flat" alt="peter-ndiritu" /> </p>
 
